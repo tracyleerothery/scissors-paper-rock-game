@@ -1,3 +1,44 @@
+
+
+.userimage {
+  background-size: cover;
+  background-size: CONTAIN;
+  background-repeat: NO-REPEAT;
+  background-position: CENTER;
+}
+
+.hand {
+  background-size: cover;
+  background-image: url(assets/img/female_idle.svg);
+  background-size: CONTAIN;
+  background-repeat: NO-REPEAT;
+  background-position: CENTER;
+}
+
+.scissors {
+  background-size: cover;
+  background-image: url(assets/img/female_scissors.svg);
+  background-size: CONTAIN; 
+  background-repeat: NO-REPEAT;
+  background-position: CENTER;
+}
+
+.rock {
+  background-size: cover;
+  background-image: url(assets/img/female_rock.svg);
+  background-size: CONTAIN;
+  background-repeat: NO-REPEAT;
+  background-position: CENTER;
+}
+
+.paper {
+  background-size: cover;
+  background-image: url(assets/img/female_paper.svg);
+  background-size: CONTAIN;
+  background-repeat: NO-REPEAT;
+  background-position: CENTER;
+} */
+
 .App {
   text-align: center;
 }
